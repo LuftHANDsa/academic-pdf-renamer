@@ -14,3 +14,6 @@ Thumbs.db
 
 # Editor/IDE Files
 .vscode/
+
+# Tests
+tests/
