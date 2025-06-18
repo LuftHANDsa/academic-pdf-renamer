@@ -25,13 +25,13 @@ This script automatically renames academic PDF papers based on their content usi
 ## Usage
 
 1.  **Add PDF files:**
-    Place the academic papers you want to rename into the `tests/` directory.
+    Place the academic papers you want to rename into your provided directory (currently uses `tests/`).
 
 2.  **Run the script:**
     ```bash
     python main.py
     ```
-    The script will iterate through all `.pdf` files in the `tests/` directory, rename them, and print the progress.
+    The script will iterate through all `.pdf` files in your provided directory (currently `tests/`), rename them, and print the progress.
 
 ## Customization
 
